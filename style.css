@@ -1,0 +1,41 @@
+
+body{
+    background-image: url("banner_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+#logo{
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+#header{
+    color: wheat;
+
+}
+#logo-name{
+  display: inline-block;
+  margin-left: 15px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: wheat;
+}
+#text_1{
+    color: rgb(186, 12, 192);
+}
+#text_2{
+    color:darkorange
+}
+#login_page{
+    max-width: 400px;
+    background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 10px rgb(65, 176, 204);
+  margin-top: 80px;
+  padding: 20px;
+}
+#text_3{
+    font-weight: bold;
+}
+
